@@ -1,0 +1,15 @@
+.btn {
+  display: inline-flex;
+  background-color: rgb(192, 255, 234);
+  border-radius: 10%;
+  width: 320px;
+  height: 70px;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-style: none;
+}
+.btn:focus {
+  outline: none;
+  background-color: rgb(255, 0, 149);
+}
